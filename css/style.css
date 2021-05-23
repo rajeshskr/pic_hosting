@@ -636,7 +636,7 @@ h1, h2, h3, h4, h5,
     .header-bar ul.social li {
       display: inline-block; }
       .header-bar ul.social li a {
-        padding: 10px; }
+        padding: 7px; }
       .header-bar ul.social li:last-child a {
         padding-right: 0; }
 
@@ -704,8 +704,9 @@ h1, h2, h3, h4, h5,
       width: 100%;
       -o-object-fit: cover;
       object-fit: cover;
-      height: 300px;
-      margin-bottom: 20px; }
+      height: 100px;
+      margin-bottom: 15px;
+      margin-right: 15px; }
       @media (max-width: 575.98px) {
         .main-content .photos .photo-item img {
           height: 200px; } }
